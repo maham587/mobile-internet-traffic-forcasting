@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+node_modules/
+
+dataset1/
+
+internet_traffic_milano_nov-dec-2013.csv
