@@ -1,6 +1,7 @@
 # Forecasting Mobile Network Traffic
 
 In this homework, we addressed two main tasks using the telecommunications activity dataset for the city of Milan (20 Gb data), recorded over two months (November to December) during a data collection campaign. Below are the main steps for this homework (you are invited to read the homework and the report to better understand the overall tasks).
+<img width="589" height="485" alt="image" src="https://github.com/user-attachments/assets/10e64b23-a0e4-4bd7-993f-bfa6b9990cb1" />
 
 ---
 
